@@ -2,7 +2,7 @@
 
 A high-performance single-page developer portfolio crafted with a dark "Signal HUD" aesthetic, showcasing full-stack Java and React projects with fluid motion, interactive 3D elements, and clean typography.
 
-**Live site:** https://my-protfolio-three-inky.vercel.app
+**Live site:** https://my-protfolio-three-inky.vercel.app/
 
 ## Tech Stack
 
