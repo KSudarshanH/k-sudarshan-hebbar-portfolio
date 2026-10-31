@@ -12,6 +12,7 @@
 
 html {
   background: #08090c;
+  overflow-x: clip;
 }
 
 html.lenis,
@@ -28,7 +29,7 @@ body {
   background: #08090c;
   color: #e8e6df;
   font-family: var(--font-sans);
-  overflow-x: hidden;
+  overflow-x: clip;
   -webkit-font-smoothing: antialiased;
 }
 
