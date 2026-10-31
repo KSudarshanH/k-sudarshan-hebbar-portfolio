@@ -18,10 +18,10 @@ A high-performance single-page developer portfolio crafted with a dark "Signal H
 
 ```bash
 # Clone the repository
-git clone https://github.com/KSudarshanH/my-portfolio.git
+git clone https://github.com/KSudarshanH/k-sudarshan-hebbar-portfolio.git
 
 # Navigate into the project directory
-cd my-portfolio
+cd k-sudarshan-hebbar-portfolio
 
 # Install dependencies
 npm install
