@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://my-protfolio-three-inky.vercel.app/sitemap.xml
+Sitemap: https://k-sudarshan-hebbar-portfolio.vercel.app/sitemap.xml
