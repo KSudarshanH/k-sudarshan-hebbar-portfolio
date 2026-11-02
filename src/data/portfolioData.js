@@ -63,7 +63,7 @@ export const skillGroups = [
   },
   {
     title: "Backend",
-    items: ["Java", "Spring", "Spring Boot", "JDBC", "JSP", "Servlets", "REST API"],
+    items: ["Java", "Spring", "Spring Boot", "JDBC", "JSP", "JEE", "Servlets", "REST API"],
   },
   {
     title: "Database",
@@ -81,7 +81,7 @@ export const projects = [
     number: "01",
     title: "Employment Management System",
     description:
-      "Engineered a Java-based backend system to manage employee records, payroll processing, and attendance data with optimized SQL queries via JDBC.",
+      "Engineered a Java-based backend system to manage employee records, payroll processing, and attendance data with optimized SQL queries via JDBC using the DAO design pattern.",
     tags: ["Java", "JDBC", "MySQL"],
     year: "2026",
     liveUrl: "",
@@ -92,11 +92,11 @@ export const projects = [
     number: "02",
     title: "E-Commerce Fashion Store",
     description:
-      "Full-stack e-commerce fashion store featuring category browsing, shopping cart, and database-driven CRUD operations for products and orders.",
+      "Full-stack e-commerce fashion store featuring category browsing, shopping cart, and database-driven CRUD operations for managing products and orders.",
     tags: ["Java", "JSP", "MySQL"],
     year: "2026",
-    liveUrl: "",
-    githubUrl: "",
+    liveUrl: "https://fashion-store-iota-steel.vercel.app",
+    githubUrl: "https://github.com/KSudarshanH/FashionStore.git",
   },
 ];
 
@@ -133,4 +133,3 @@ export const emailjsConfig = {
   templateId: import.meta.env.VITE_EMAILJS_TEMPLATE_ID || "YOUR_EMAILJS_TEMPLATE_ID",
   publicKey: import.meta.env.VITE_EMAILJS_PUBLIC_KEY || "YOUR_EMAILJS_PUBLIC_KEY",
 };
-
